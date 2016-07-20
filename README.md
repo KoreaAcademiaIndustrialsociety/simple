@@ -1,0 +1,2 @@
+# simple
+inforamtion of IT 
